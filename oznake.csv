@@ -1,0 +1,46 @@
+﻿ClassId;Name
+0;Ogranicenje brzine (20km/h)
+1;Ogranicenje brzine (30km/h)
+2;Ogranicenje brzine (50km/h)
+3;Ogranicenje brzine (60km/h)
+4;Ogranicenje brzine (70km/h)
+5;Ogranicenje brzine (80km/h)
+6;Kraj ogranicenja brzine (80km/h)
+7;Ogranicenje brzine (100km/h)
+8;Ogranicenje brzine (120km/h)
+9;Zabrana pretjecanja
+10;Zabrana pretjecanja za teska vozila
+11;Pravo prolaza na sljedecem raskrizju
+12;Glavna cesta
+13;Prilaz
+14;Stop
+15;Zabrana za vozila
+16;Zabrana za teska vozila
+17;Zabranjen prilazak
+18;Oprez
+19;Opasan zavoj u lijevo
+20;Opasan zavoj u desno
+21;Dvostruki zavoj
+22;Kvrgava cesta
+23;Sklizak kolnik
+24;Suzenje ceste s desne strane
+25;Radovi na cesti
+26;Prometna signalizacija
+27;Pjesacka zona
+28;Prijelaz za djecu
+29;Prijelaz za bicikle
+30;Cuvaj se leda/snijega
+31;Prijelaz za divlje zivotinje
+32;Kraj ogranicenja brzine i pretjecanja
+33;Zavoj u desno
+34;Zavoj u lijevo
+35;Prolaz samo ravno
+36;Prolaz ravno ili u desno
+37;Prolaz ravno ili u lijevo
+38;Zadrzite se u desnoj traci
+39;Zadrzite se u lijevoj traci
+40;Obvezni kruzni tok
+41;Kraj ogranicenja pretjecanja
+42;Kraj ogranicenja pretjecanja za teska vozila
+43;False positives
+44;Zabrana zaustavljanja
